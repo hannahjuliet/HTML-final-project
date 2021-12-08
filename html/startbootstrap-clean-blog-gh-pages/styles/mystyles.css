@@ -1,0 +1,88 @@
+
+.header {
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.miniheader{
+    font-weight: bold;
+}
+
+.videoheader{
+    font-family: monospace;
+    font-size: 25px;
+    font-style: normal;
+}
+
+.navigationbar-bg{
+    background-image: url("../images/DLF_2018-01-1\ copy.jpg");
+}
+
+.rightmenu{
+    top: 114px;
+    right: 5px;
+    width: 100px;
+    bottom: 64px;
+}
+
+.contactbox{
+    border-width: 3px;
+    border-style: dotted;
+    border-color:  black;
+    padding: 20px;
+}
+
+.contactme{
+    font-weight: bold;
+    font-size: larger;
+}
+
+body{
+    background-color: rgb(244, 210, 216);
+}
+
+.family{
+    text-align: center;
+    font-weight: bold;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center
+  }
+  img {
+    max-width: 450%
+  }
+  .image {
+    flex-basis: 90%
+  }
+  .text {
+    font-size: 100px;
+    padding-left: 199px;
+    left: 10px;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .textcenter{
+      position: absolute;
+      top: 180px;
+      left: 70px;
+  }
+
+  .downtownpic{
+      justify-content: center;
+      right: 50px;
+  }
+
+  .familytext{
+      font-family: 'Times New Roman', Times, serif;
+      color: rgb(51, 61, 85);
+  }
+

@@ -1,0 +1,51 @@
+a{ color: rgb(255, 131, 60);
+}
+
+a:hover { text-decoration: underline;
+    font-weight: bold;
+}
+
+a:visited {
+    color:rgb(17, 18, 75)
+}
+
+.copyright {
+    font-size: 0.875em;
+    text-align: center !important;
+    --bs-text-opacity: 1;
+    color: #6c757d !important;
+    font-style: italic !important;
+  }
+
+  .graphone {
+    top: 114px;
+    left: 5px;
+    width: 100px;
+    bottom: 64px;
+    position: fixed;
+  }
+
+  .graphbox{
+    border-width: 3px;
+    border-style: line;
+    color: white;
+    background-color: rgb(39, 39, 69);
+    padding: 20px;
+  }
+
+  .graph1{
+   size: 100px;
+  }
+
+  .tableauheader{
+    border-width: 3px;
+    border-style: line;
+    color: white;
+    background-color: rgb(39, 39, 69);
+    padding: 20px;
+  }
+
+  .tabs{
+      font-size: 20px;
+      font-weight: bold;
+  }
